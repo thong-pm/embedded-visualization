@@ -158,8 +158,11 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
-	h2 {
-		font-size: 1.5em;
+	h2 strong {color: #735F22;
+		font-weight: 600;
+		line-height: 1em;
+		margin: 0 0 1em; 
+		font-size: 1em;
 		line-height: 1.5em;
 	}
 
@@ -2606,7 +2609,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #735F22;
+		background-color: #3C3F52;
 		/* background-attachment: scroll*/
 		/* background-image: url("images/overlay.png"); */
 		background-position: top left,							top left;
